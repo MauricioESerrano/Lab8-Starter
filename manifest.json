@@ -1,7 +1,7 @@
 {
   "name": "Lab8-Starter",
   "short_name": "Mauricio",
-  "description": "Lab8",
+  "description": "Lab_8",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ADD8E6",
@@ -18,7 +18,7 @@
       "type": "image/png"
     },
     {
-      "src": "/assets/images/icons/icon-385x384.png",
+      "src": "/assets/images/icons/icon-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
@@ -30,4 +30,3 @@
   ]
 }
 
-  
